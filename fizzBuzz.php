@@ -32,7 +32,6 @@
                 }
 
                 #Increments number
-                
                 $number++;
             }
         ?>
